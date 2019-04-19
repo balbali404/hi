@@ -11,7 +11,7 @@ client.on('ready', function(){
     type: 1,
      url: 'https://www.twitch.tv/skwadraa',
     name: 'Youtube',
-    application_id: '353573128665956363,
+    application_id: '353573128665956363'
       assets: {
          large_image:   `${s[Math.floor(Math.random() * s.length)]}`,
   
